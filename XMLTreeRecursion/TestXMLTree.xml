@@ -1,0 +1,14 @@
+<book printISBN="978-1-118-06331-6" webISBN="1-118063-31-7" pubDate="Dec 20 2011">
+    <author>Cay Horstmann</author>
+    <title>Java for Everyone: Late Objects</title>
+    <contents>
+        <preface>```````````````</preface>
+        <chapter number="1" title="Introduction">
+            <section title="Chapter Goals"></section>
+            <section title="Chapter Contents">111111</section>
+            <section title="Computer Programs" number="1.1"></section>
+            <section title="The Anatomy of a Computer" number="1.2">BBBBBBB</section>
+        </chapter>
+        <chapter number="2" title="Fundamental Data Types">AAAAAAAAA</chapter>
+    </contents>
+</book>
