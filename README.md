@@ -1,4 +1,4 @@
-# CSE 2221
+# CSE 2221: Software I: Software Components
 Intellectual foundations of software engineering;\
 Design-by-contract principles;\
 Mathematical modeling of software functionality;\
