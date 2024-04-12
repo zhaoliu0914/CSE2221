@@ -1,8 +1,8 @@
-# CSE 2221: Software I: Software Components
+# CSE 2221 Software I: Software Components
 Intellectual foundations of software engineering;\
 Design-by-contract principles;\
 Mathematical modeling of software functionality;\
-Component-based software from client perspective.
+Component-based software from client's perspective.
 
 ## Learning Outcomes
 - Be familiar with the reasons it is important that software be "correct", i.e., why "good enough" is not good enough when it comes to software quality
